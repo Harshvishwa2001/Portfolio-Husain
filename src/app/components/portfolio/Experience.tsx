@@ -24,7 +24,7 @@ export function Experience() {
           </div>
           <div className="exp-r">
             <div className="exp-r-head">
-              7 Months<br />
+              1 Years<br />
               <span style={{ color: 'var(--mid)', fontSize: '0.6em' }}>(incl. 3-mo Internship)</span>
             </div>
             <ul className="exp-r-list">
